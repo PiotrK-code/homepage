@@ -1,0 +1,34 @@
+.footer {
+    background-color: white;
+    padding: 5px;
+    margin: 5px;
+}
+
+.footer__header {
+    color: #cf641d;
+    text-align: center;
+}
+
+.footer__link {
+    color: rgb(146, 230, 13);
+    margin: auto;
+}
+
+.footer__link:visited {
+    color: darkblue;
+}
+
+.footer__link:focus {
+    outline: 2px solid currentColor;
+}
+
+.footer__link:hover {
+    color: rgb(91, 91, 128);
+    border-bottom: 1px solid;
+    border-radius: 10px;
+    outline: none;
+}
+
+.footer__link:active {
+    color: green;
+}
