@@ -1,6 +1,6 @@
 ![Piotr](https://github.com/PiotrK-code/homepage/blob/main/images/IMG_2112.jpg?raw=true)
 
-# Piotr Kowalski - moja pierwsza strona
+# Piotr Kowalski - My first page
 
 ## The page consists of two parts
 
