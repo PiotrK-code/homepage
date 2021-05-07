@@ -2,12 +2,12 @@
 
 # Piotr Kowalski - moja pierwsza strona
 
-##The page consists of two parts
+## The page consists of two parts
 
 1. Education and work,
 2. Interests,
 
-##Technologies used
+## Technologies used
 
 1. HTML,
 2. CSS,
