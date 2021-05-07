@@ -4,13 +4,13 @@
 
 ## The page consists of two parts
 
-1. Education and work,
-2. Interests,
+1. Education and work
+2. Interests
 
 ## Technologies used
 
-1. HTML,
-2. CSS,
+1. HTML
+2. CSS
 3. Java Script with ES6 +
 4. BEM
 
