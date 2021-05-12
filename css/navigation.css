@@ -1,20 +1,21 @@
 .navigation {
-    background-color: #3283bf;
+    background-color: beige;
     margin: auto;
-    padding: 5px;
+    padding: 10px;
+    font-size: 20px;
 }
 
 .navigation__list {
     outline-width: 5px;
     list-style: none;
-    padding: 5px;
+    padding:  5px;
 }
 
 .navigation__item {
     margin: 5px 0;
     outline-width: 5px;
     font-family: "Lato", sans-serif;
-    background-color: #00ffff;
+    background-color: #85c6e9;
     outline-style: solid;
     padding: 5px;
 }
@@ -30,3 +31,4 @@
     margin: auto;
     text-decoration: none;
 }
+

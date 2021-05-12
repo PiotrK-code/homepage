@@ -15,9 +15,10 @@ html {
 }
 
 .navigation {
-    background-color: #3283bf;
+    background-color: beige;
     margin: auto;
-    padding: 5px;
+    padding: 10px;
+    font-size: 20px;
 }
 
 .navigation__list {
@@ -30,7 +31,7 @@ html {
     margin: 5px 0;
     outline-width: 5px;
     font-family: "Lato", sans-serif;
-    background-color: #00ffff;
+    background-color: #85c6e9;
     outline-style: solid;
     padding: 5px;
 }
@@ -48,7 +49,7 @@ html {
 }
 
 .header {
-    color: #0a208b;
+    color: #26272e;
     text-align: center;
 }
 
@@ -69,18 +70,16 @@ html {
 }
 
 .section__header {
-    color: black;
-    text-shadow: 1px 1px 6px #5d1fc7;
-    background-color: #baaeae;
+    text-shadow: 1px 1px 6px #4db4e4;
+    background-color: rgb(139, 207, 228);
     border-style: solid;
-    border-color: red;
+    border-color: rgb(226, 190, 112);
     line-height: 1.5;
     border-radius: 10px;
     padding: 10px;
 }
 
 .section__list {
-    color: black;
     margin: auto;
     padding-left: 20px;
     outline-width: 5px;
@@ -92,7 +91,7 @@ html {
 
 .container {
     overflow-x: auto;
-    background-color:rgb(63, 135, 243);
+    background-color:rgb(112, 197, 223);;
 }
 
 .container__table {
@@ -124,13 +123,13 @@ html {
 }
 
 .container__tableCell--tableHeader {
-    background-color: rgb(56, 217, 223);
-    color: rgb(15, 6, 88);
+    background-color: rgb(139, 207, 228);;
+    color: rgb(3, 3, 3);
     font-size: 10px;
 }
 
 .paragraph {
-    color: rgb(97, 97, 233);
+    color: rgb(83, 83, 105);
     margin: 10px 5px;
     padding: 5px;
 }
@@ -142,12 +141,12 @@ html {
 }
 
 .footer__header {
-    color: #cf641d;
+    color: rgb(3, 3, 3);
     text-align: center;
 }
 
 .footer__link {
-    color: rgb(146, 230, 13);
+    color: rgb(13, 181, 233);
     margin: auto;
 }
 
@@ -168,7 +167,7 @@ html {
 }
 
 .footer__link:active {
-    color: green;
+    color: rgb(230, 120, 17);
 }
 
 .js__greyBackground {

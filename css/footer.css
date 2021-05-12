@@ -5,14 +5,15 @@
 }
 
 .footer__header {
-    color: #cf641d;
+    color: rgb(3, 3, 3);
     text-align: center;
 }
 
 .footer__link {
-    color: rgb(146, 230, 13);
+    color: rgb(13, 181, 233);
     margin: auto;
 }
+
 
 .footer__link:visited {
     color: darkblue;
@@ -30,5 +31,5 @@
 }
 
 .footer__link:active {
-    color: green;
+    color: rgb(230, 120, 17);
 }
